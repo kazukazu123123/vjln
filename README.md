@@ -1,1 +1,1 @@
-# Voice Channel Join/Leave Notifir
+# VJLN (Voice Channel Join/Leave Notification) Bot
